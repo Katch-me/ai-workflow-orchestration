@@ -3,8 +3,6 @@ import React from 'react';
 const ResultModal = ({ isOpen, onClose, result }) => {
     if (!isOpen) return null;
 
-    const isDag = result?.is_dag;
-
     return (
         <div style={{
             position: 'fixed',

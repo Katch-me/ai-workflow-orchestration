@@ -1,6 +1,6 @@
 // BaseNode.js
 
-import { Handle, Position } from 'reactflow';
+import { Handle } from 'reactflow';
 import { useStore } from '../store';
 
 // Icon components for different node types
