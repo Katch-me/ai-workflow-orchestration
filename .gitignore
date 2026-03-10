@@ -1,0 +1,22 @@
+# Mac system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Build folders
+dist/
+build/
+
+# OS files
+Thumbs.db
